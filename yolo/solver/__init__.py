@@ -1,2 +1,2 @@
-import solver
-import yolo_solver
+from .solver import *
+from .yolo_solver import *

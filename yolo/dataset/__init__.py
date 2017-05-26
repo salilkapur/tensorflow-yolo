@@ -1,2 +1,2 @@
-import dataset
-import text_dataset
+from .dataset import *
+from .text_dataset import *

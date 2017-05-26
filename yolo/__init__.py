@@ -1,3 +1,3 @@
-import dataset
-import net
-import solver
+from .dataset import dataset
+from .net import net
+from .solver import solver

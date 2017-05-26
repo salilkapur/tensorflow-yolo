@@ -1,1 +1,1 @@
-import process_config
+from .process_config import *
