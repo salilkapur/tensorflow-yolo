@@ -1,2 +1,2 @@
-from .dataset import *
-from .text_dataset import *
+from .dataset import DataSet
+from .text_dataset import TextDataSet 
